@@ -32,6 +32,7 @@ namespace AsyncAwaitConsoleApp
         /// </summary>
         /// <remarks>
         /// http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html
+		/// http://stackoverflow.com/questions/5095183/how-would-i-run-an-async-taskt-method-synchronously
         /// </remarks>
         private static void CallAsyncMethodsSync()
         {
